@@ -28,14 +28,7 @@ Throughout development:
 - Chat Gpt to plan the roadmap
   
 ## 📦 How to Run Locally
-
-### 🔧 Backend
-```bash
-cd backend
-npm install
-npm run dev# Event-Booking
-
-### 📲 Frontend – Event Booking System
+# 📲 Frontend – Event Booking System
 
 React UI for users and admins with:
 
@@ -44,8 +37,14 @@ React UI for users and admins with:
 - Admin event manager
 - Responsive design
 
-## 🛠 How to Run
+## 🛠 How to Run 🔧 Backend and frontend
 ```bash
 cd frontend
 npm install
 npm start
+
+cd backend
+npm install
+npm run dev# Event-Booking
+
+
