@@ -28,7 +28,7 @@ Throughout development:
 - Chat Gpt to plan the roadmap
   
 ## 📦 How to Run Locally
-# 📲 Frontend – Event Booking System
+### 📲 Frontend – Event Booking System
 
 React UI for users and admins with:
 
