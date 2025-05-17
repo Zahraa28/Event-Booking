@@ -25,14 +25,7 @@ A full-stack web app that allows users to book, and manage events. Includes an a
 
 Throughout development:
 - 🤖 GitHub Copilot was used to scaffold repetitive code and autocomplete logic.
-
-## 📸 Screenshots
-
-Add screenshots of:
-- Home page
-- Booking success
-- Admin panel
-
+  
 ## 📦 How to Run Locally
 
 ### 🔧 Backend
