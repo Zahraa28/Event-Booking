@@ -34,3 +34,18 @@ Throughout development:
 cd backend
 npm install
 npm run dev# Event-Booking
+
+### 📲 Frontend – Event Booking System
+
+React UI for users and admins with:
+
+- Event listings
+- Booking flow
+- Admin event manager
+- Responsive design
+
+## 🛠 How to Run
+```bash
+cd frontend
+npm install
+npm start
